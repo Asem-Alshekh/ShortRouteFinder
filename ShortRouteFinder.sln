@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortRouteFinder", "ShortRouteFinder.csproj", "{EACF643F-1F0A-4FF8-8D3C-6242149B148E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EACF643F-1F0A-4FF8-8D3C-6242149B148E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EACF643F-1F0A-4FF8-8D3C-6242149B148E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EACF643F-1F0A-4FF8-8D3C-6242149B148E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EACF643F-1F0A-4FF8-8D3C-6242149B148E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18B45F9F-1169-4419-BB74-8D7AA4010D8C}
+	EndGlobalSection
+EndGlobal
